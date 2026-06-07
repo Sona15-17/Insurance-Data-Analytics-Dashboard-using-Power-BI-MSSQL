@@ -167,3 +167,14 @@ This repository contains the following files:
 * Dashboard Screenshots
 * README.md
 
+
+## Author
+
+**Sonali Sharma**
+
+Aspiring Data Analyst
+
+Skills: Power BI | SQL | MS SQL Server | Tableau
+
+- GitHub: https://github.com/Sona15-17
+- LinkedIn: http://www.linkedin.com/in/sonali-sharma-7915b3368
